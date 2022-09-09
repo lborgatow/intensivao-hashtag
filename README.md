@@ -1,2 +1,2 @@
-# intensivao_hashtag
-Desafios utilizando Python no Jupyter Notebook
+# Intensivão de Python - Hashtag Programação
+Pequenos projetos realizados durante o Intensivão de Python, no YouTube, do canal Hashtag Programação.
